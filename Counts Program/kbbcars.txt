@@ -1,0 +1,49 @@
+Acura
+Alfa Romeo
+Audi
+bentley || bently
+BMW || Bima || beamer || m3
+Buick || scraper
+Cadillac || Escalade || fofo || swangers
+Chevrolet || Cherry six four || impala || LO-LO || Chevy
+Chrysler || Maybach
+Daihatsu
+Dodge
+Eagle
+Ford
+Geo
+GMC
+Honda
+Hyundai
+Isuzu
+Jaguar
+Jeep
+Land Rover || Double R
+Lincoln
+Mazda || MPV
+Mercedes-Benz || Benz || lorenzo || benzo || mercedes
+Mercury
+Merkur
+Mitsubishi
+Nissan
+Oldsmobile || 98 Oldsmobile
+Peugeot
+Plymouth
+Pontiac
+Porsche
+Saab
+Sterling
+Subaru
+Suzuki
+Toyota
+Volkswagen
+Volvo
+Yugo
+Infiniti
+Lexus || lex
+Saturn
+Hummer
+Kia
+Daewoo
+MINI
+Scion
